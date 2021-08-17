@@ -1,9 +1,8 @@
 ## Bom dia, Eu sou o Luan Leandro
 <div>
-<img align="right" alt="Luan-killua"  height="300"width="300" src="https://pa1.narvii.com/6855/aed6e3f6788a0dcfa57b7dc27f9d5f4413f4b32f_hq.gif">
+
 	
-- 🌱 Estudando API REST, Flask
-- 😄 Pronomes: Ele/dele
+- 🌱 Estudando API REST, Flask, Django
 
 <div>
 <a href="https://github.com/LuanLeandro">	
