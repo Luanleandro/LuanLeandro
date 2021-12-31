@@ -12,7 +12,7 @@
 <a href = "mailto:luan.barbosacruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"><a/>
 <a href="https://instagram.com/LuanLean" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
 <img align="right" alt="Rafa-Python" height="60"width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	
-<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+<img  align="right" alt="Rafa-Python" height="60"width="60" src="https://pt.wikipedia.org/wiki/HTML5#/media/Ficheiro:HTML5_logo_and_wordmark.svg">
 ##
 
 	
