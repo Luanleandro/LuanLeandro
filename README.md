@@ -3,7 +3,7 @@
 
 	
 - 🌱 Estudando API REST, Flask, Django
-- 🌱 Estudando HTML5 e Css3
+- 🌱 Estudando HTML5, CSS3 e JS
 	
 <div>
 <a href="https://github.com/LuanLeandro">	
