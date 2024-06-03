@@ -1,19 +1,32 @@
-## Bom dia, Eu sou o Luan Leandro
-<div>
+# Luan Leandro
 
-	
-- 🌱 Estudando API REST, Flask, Django
-- 🌱 Estudando HTML5, CSS3 e JS
-	
-<div>
-<a href="https://github.com/LuanLeandro">	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanLeandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>	
-<a href = "mailto:luan.barbosacruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"><a/>
-<a href="https://instagram.com/LuanLean" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
-<br>
-<img align="left" alt="Rafa-Python" height="100"width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img  align="left" alt="Rafa-Python" height="100"width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img  align="left" alt="Rafa-Python" height="100"width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+Olá, sou o Luan Desenvolvedor Front-end, tenho 19 anos e sou apaixonado por tecnologia e jogos, qualquer dúvida ou novo projeto entre em contato.
 
-	
+## Github Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanleandro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=&text_color=FFF)
+
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luan-leandro-barbosa-da-cruz-0939a4204/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luan.barbosacruz@gmail.com)
+
+### Habilidades
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd5)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=orange)
+![Java](https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanleandro&layout=compact&bg_color=000&border_color=30A3DC&title_color=&text_color=FFF)
+
+# Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=unifavela&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3de&text_color=FFF)](https://github.com/luanleandro/unifavela)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanleandro&repo=Projetolis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3de&text_color=FFF)](https://github.com/luanleandro/Projetolis)
